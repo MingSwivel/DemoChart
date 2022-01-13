@@ -14,7 +14,6 @@ Try the demo on [Codepen](https://codepen.io/sluger/pen/YjJKYy).
 npm install --save chart.js chartjs-plugin-error-bars
 ```
 
-
 ## Usage
 Datasets must define an `errorBars` object that contains the error bar property key (same as in the used scale) and values `plus` and `minus`. Plus values are always positive, and minus vice versa.
 
